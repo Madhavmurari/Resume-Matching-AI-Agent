@@ -44,7 +44,7 @@ venv\Scripts\activate
 ```
 ### 3. Install dependencies
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ### 4.1 Run Ollama model
 ```bash
