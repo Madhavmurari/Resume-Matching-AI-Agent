@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+langchain
+langchain-ollama
+faiss-cpu
+numpy
+pandas
+nltk
+spacy
