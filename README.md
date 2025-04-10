@@ -46,7 +46,13 @@ venv\Scripts\activate
 ```bash
 pip install -r requirement.txt
 ```
-### 4. Run the job processing script
+### 4.1 Run Ollama model
+```bash
+ollama run tinydolphin
+ollama run mxbai-embed-large
+
+```
+### 4.2 Run the job processing script
 ```bash
 python main.py
 ```
