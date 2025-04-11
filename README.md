@@ -18,10 +18,10 @@ This project is a streamlined recruitment tool that leverages Large Language Mod
 
 ## 🚀 Features
 
-- 📄 **Summarize Job Descriptions** using TinyDolphin (LLM)
+- 📄 **Summarize Job Descriptions** using `tinydolphin`(LLM)
 - 📌 **Semantic Embedding** of job summaries and resumes using `mxbai-embed-large`
-- 🎯 **FAISS-based Similarity Search** to match resumes with job descriptions
 - 🧮 **Embedding Normalization** for efficient and consistent similarity scores
+- 🎯 **FAISS-based Similarity Search** to match resumes with job descriptions
 - ✅ **Automatic Shortlisting** based on match score (≥ 80%)
 - 📅 **Interview Scheduler** with name/email extraction from resume
 - 💾 **SQLite Database** to store JDs, resume matches, and interview schedules
