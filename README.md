@@ -3,6 +3,11 @@
 This project is a streamlined recruitment tool that leverages Large Language Models (LLMs), semantic search, and vector databases to **match candidate resumes with job descriptions**, **shortlist the best fits**, and **automatically schedule interviews** — all within a simple Streamlit interface.
 
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshot/resume1.png" alt="Image 1" width="351"/>
+  <img src="screenshot/resume2.png" alt="Image 2" width="351"/>
+</div>
+
 
 ---
 ## 📑 Table of Contents
