@@ -4,11 +4,6 @@ This project is a streamlined recruitment tool that leverages Large Language Mod
 
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="screenshot/resume1.png" alt="Image 1" width="351"/>
-  <img src="screenshot/resume2.png" alt="Image 2" width="351"/>
-</div>
-
 ---
 ## 📑 Table of Contents
 - [Features](#-features)
