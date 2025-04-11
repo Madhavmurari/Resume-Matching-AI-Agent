@@ -44,9 +44,9 @@ venv\Scripts\activate
 ```
 ### 3. Install dependencies
 ```bash
-pip install -r requirements.txt
+./build.sh
 ```
-### 4.1 Run Ollama model
+### 4.1 Run Ollama model locally
 ```bash
 ollama run tinydolphin
 ollama run mxbai-embed-large
